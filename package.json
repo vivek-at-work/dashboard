@@ -131,7 +131,7 @@
     "karma-ng-html2js-preprocessor": "~1.0.0",
     "karma-sauce-launcher": "~1.1.0",
     "karma-sourcemap-loader": "~0.3.7",
-    "lodash": "~4.17.4",
+    "lodash": "~4.17.21",
     "merge-stream": "~1.0.1",
     "napa": "~3.0.0",
     "npm-check-updates": "~2.13.0",
